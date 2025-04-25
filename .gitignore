@@ -1,0 +1,64 @@
+### Xcode ###
+# User-specific settings
+xcuserdata/
+*.xcuserstate
+
+# Build and debug files
+build/
+DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.swp
+*.bak
+
+# App packaging
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift/Obj-C specific
+*.hmap
+*.xccheckout
+
+### Secret files ###
+# Файлы с API-ключами и токенами
+.env
+.env.local
+*.env
+config/secrets.json
+MoneyFlow GoogleService Info.plist
+credentials.*
+*.key
+*.pem
+*.cert
+
+### Dependency directories ###
+# Swift Package Manager
+.build/
+Packages/
+Package.pins
+Package.resolved
+
+# CocoaPods (рекомендуется держать Pods/ в репозитории)
+# Но если хотите игнорировать:
+# Pods/
+
+# Carthage
+Carthage/Build/
+
+### Fastlane ###
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+### System ###
+.DS_Store
+*.log
+*.tmp
+
+### IDE ###
+.idea/
+.vscode/
