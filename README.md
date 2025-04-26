@@ -22,4 +22,4 @@ MONEYFLOW: PERSONAL FINANCE TRACKER 💰
 
 – 💾 Persistence: CoreData + Keychain 💾
 
-– ☁️ Backend: Firebase (Authentication + Firestore) ☁️
+– ☁️ Backend: Firebase (Authentication) ☁️
