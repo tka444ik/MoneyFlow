@@ -20,6 +20,4 @@ MONEYFLOW: PERSONAL FINANCE TRACKER 💰
 
 – ⚡ Concurrency: GCD + Swift Concurrency ⚡
 
-– 💾 Persistence: CoreData + Keychain 💾
-
-– ☁️ Backend: Firebase (Authentication) ☁️
+– ☁️ Persistence: Firebase ☁️
